@@ -369,4 +369,10 @@ padding-right: 5px;
   .input-error{
     color: #A62F2F !important;
   }
- 
+ .custom-toastS{
+  background-color: #E3F5E3 !important;
+  color: black;          
+  border-radius: 0px;               
+  padding: 10px;   
+  border-left: 5px solid #358439;
+ }
