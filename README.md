@@ -1,7 +1,7 @@
 # Classence
 
 <div align="center">
-  <img src="https://your-logo-url-here.png" alt="Classence Logo" width="200"/>
+  <img src="https://ibb.co/JR6dfSyj" alt="Classence Logo" width="200"/>
   <h3>A Comprehensive Class Management Platform</h3>
   
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -27,7 +27,7 @@ Classence is a robust class management platform designed to bridge the gap betwe
 - **Resource Sharing**: Upload and distribute learning materials to students
 
 ### For Students
-- **Class Discovery**: Browse and join available classes
+- **Class join**: join classes
 - **Schedule View**: Access comprehensive calendar of classes and assignments
 - **Attendance Records**: View personal attendance history and statistics
 - **Performance Tracking**: Monitor academic progress through visual analytics
@@ -88,10 +88,10 @@ Classence is a robust class management platform designed to bridge the gap betwe
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="https://screenshot-url-1.png" alt="Dashboard" width="400"/>
-  <img src="https://screenshot-url-2.png" alt="Calendar View" width="400"/>
-  <img src="https://screenshot-url-3.png" alt="Video Conference" width="400"/>
-  <img src="https://screenshot-url-4.png" alt="Analytics Dashboard" width="400"/>
+  <img src="https://ibb.co/gLGjsK8r" alt="Dashboard" width="400"/>
+  <img src="https://ibb.co/hxLPzy0w" alt="Calendar View" width="400"/>
+  <img src="https://ibb.co/zTnGz8jd" alt="Video Conference" width="400"/>
+  <img src="https://ibb.co/0VW7khCC" alt="Analytics Dashboard" width="400"/>
 </div>
 
 ## 🔧 Installation & Setup
@@ -152,15 +152,13 @@ npm test
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Shreyanshu**
 - LinkedIn: [linkedin.com/in/shreyanshu-992449271](https://www.linkedin.com/in/shreyanshu-992449271/)
-- GitHub: [github.com/SHREYANSHU](https://github.com/SHREYANSHU)
+- GitHub: [github.com/SHREYANSHU](https://github.com/shreyanshu005)
 - Email: shreyanshu005@gmail.com
 
 ---
