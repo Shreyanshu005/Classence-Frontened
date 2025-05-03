@@ -88,24 +88,14 @@ Classence is a robust class management platform designed to bridge the gap betwe
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/classence.git
+git clone https://github.com/shreyanshu005/Classence-Frontened.git
 cd classence
 
 # Install dependencies for frontend
-cd frontend
-npm install
-
-# Install dependencies for backend
-cd ../backend
+cd Classence-Frontened
 npm install
 
 # Run development servers
-# Terminal 1 - Backend
-cd backend
-npm run dev
-
-# Terminal 2 - Frontend
-cd frontend
 npm start
 ```
 
@@ -129,9 +119,6 @@ npm start
 cd frontend
 npm test
 
-# Run backend tests
-cd backend
-npm test
 ```
 
 ## 🤝 Contributing
