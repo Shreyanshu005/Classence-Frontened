@@ -88,10 +88,10 @@ Classence is a robust class management platform designed to bridge the gap betwe
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="https://ibb.co/gLGjsK8r" alt="Dashboard" width="400"/>
-  <img src="https://ibb.co/hxLPzy0w" alt="Calendar View" width="400"/>
-  <img src="https://ibb.co/zTnGz8jd" alt="Video Conference" width="400"/>
-  <img src="https://ibb.co/0VW7khCC" alt="Analytics Dashboard" width="400"/>
+  <img src="https://i.ibb.co/Xr92mRPW/Screenshot-2025-05-03-at-4-03-47-PM.png" alt="Dashboard" width="400"/>
+  <img src="https://i.ibb.co/p6btFxq5/Screenshot-2025-05-03-at-4-03-57-PM.png" alt="Calendar View" width="400"/>
+  <img src="https://i.ibb.co/YFRpxDYg/Screenshot-2025-05-03-at-4-04-18-PM.png" alt="Video Conference" width="400"/>
+  <img src="https://i.ibb.co/wrbkTMSS/Screenshot-2025-05-03-at-4-04-10-PM.png" alt="Analytics Dashboard" width="400"/>
 </div>
 
 ## 🔧 Installation & Setup
