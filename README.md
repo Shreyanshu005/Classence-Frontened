@@ -1,7 +1,7 @@
 # Classence
 
 <div align="center">
-  <img src="https://ibb.co/JR6dfSyj" alt="Classence Logo" width="200"/>
+  <img src="https://i.ibb.co/qMqnt2WY/Screenshot-2025-05-03-at-4-05-57-PM.png" alt="Classence Logo" width="200"/>
   <h3>A Comprehensive Class Management Platform</h3>
   
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
