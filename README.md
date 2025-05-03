@@ -63,17 +63,7 @@ Classence is a robust class management platform designed to bridge the gap betwe
 │   └── Services
 │       ├── API
 │       └── WebRTC
-│
-├── Backend (Node.js + Express.js)
-│   ├── API Routes
-│   │   ├── Auth
-│   │   ├── Classes
-│   │   ├── Users
-│   │   └── Analytics
-│   ├── Controllers
-│   ├── Models
-│   ├── Middleware
-│   └── Socket Handlers
+
 ```
 
 ## 🚀 Key Implementations
